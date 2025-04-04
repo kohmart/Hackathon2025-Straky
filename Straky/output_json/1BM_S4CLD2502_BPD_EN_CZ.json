@@ -1,0 +1,58 @@
+[
+  {
+    "title": "4.1.1\tCreate Planned Independent Requirements\t13",
+    "steps": []
+  },
+  {
+    "title": "4.1.2\tMaterial Requirements Planning\t15",
+    "steps": []
+  },
+  {
+    "title": "4.1.3\tMonitor Material Coverage\t16",
+    "steps": []
+  },
+  {
+    "title": "4.2.1\tCreate Production Order\t18",
+    "steps": []
+  },
+  {
+    "title": "4.2.2\tRelease Production Order with Output Setting\t19",
+    "steps": []
+  },
+  {
+    "title": "4.2.3\tPreview Output Document for Production Order\t21",
+    "steps": []
+  },
+  {
+    "title": "4.2.4\tConfirm Production Order for Semifinished Product\t23",
+    "steps": []
+  },
+  {
+    "title": "4.2.5\tReview Production Order for Semifinished Product\t24",
+    "steps": []
+  },
+  {
+    "title": "4.3.1\tAlternative 1: Make-to-Order Production - Finished Goods Sales and Final Assembly(BJE)\t26",
+    "steps": []
+  },
+  {
+    "title": "4.3.2\tAlternative 2: Incoming Sales Order and Consumption of the Component\t26",
+    "steps": []
+  },
+  {
+    "title": "4.3.2.1\tCreate Sales Order for Finished Product\t26",
+    "steps": []
+  },
+  {
+    "title": "4.3.2.2\tMonitor Material Coverage for Semifinished Product\t28",
+    "steps": []
+  },
+  {
+    "title": "4.3.2.3\tMaterial Requirements Planning for Finished Product\t29",
+    "steps": []
+  },
+  {
+    "title": "4.3.2.4\tMonitor Material Coverage for Semifinished and Finished Product\t31",
+    "steps": []
+  }
+]

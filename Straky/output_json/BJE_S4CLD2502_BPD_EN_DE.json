@@ -1,0 +1,86 @@
+[
+  {
+    "title": "4.1.1\tReceive Customer Request for Quotation\t13",
+    "steps": []
+  },
+  {
+    "title": "4.1.2\tCreate and Send Sales Quotation to Customer\t13",
+    "steps": []
+  },
+  {
+    "title": "4.1.3\tChange Sales Quotation\t15",
+    "steps": []
+  },
+  {
+    "title": "4.1.4\tCreate Sales Order with Ref. to Quotation\t17",
+    "steps": []
+  },
+  {
+    "title": "4.2.1\tCreate Sales Order\t20",
+    "steps": []
+  },
+  {
+    "title": "4.3.1\tCreate Down Payment Request\t22",
+    "steps": []
+  },
+  {
+    "title": "4.3.2\tPost Down Payment\t23",
+    "steps": []
+  },
+  {
+    "title": "4.4.1\tMaterial Requirements Planning for Sales Order\t23",
+    "steps": []
+  },
+  {
+    "title": "4.5.1\tChange Order BoM for Sales Order\t25",
+    "steps": []
+  },
+  {
+    "title": "4.5.2\tRecalculation of Costs in Sales Order\t26",
+    "steps": []
+  },
+  {
+    "title": "4.5.3\tRerun MRP for Sales Order\t28",
+    "steps": []
+  },
+  {
+    "title": "4.6.1\tCreate Production Order\t30",
+    "steps": []
+  },
+  {
+    "title": "4.6.2\tRelease Production Orders\t32",
+    "steps": []
+  },
+  {
+    "title": "4.6.3\tPick Components (Picking List)\t33",
+    "steps": []
+  },
+  {
+    "title": "4.6.4\tConfirm Assembly Activities\t35",
+    "steps": []
+  },
+  {
+    "title": "4.6.5\tPost Goods Receipt for Production Order\t36",
+    "steps": []
+  },
+  {
+    "title": "4.7.1\tCreate Delivery with Order Reference\t37",
+    "steps": []
+  },
+  {
+    "title": "4.7.2\tExecute Picking\t38",
+    "steps": []
+  },
+  {
+    "title": "4.7.3\tPost Goods Issue\t38",
+    "steps": []
+  },
+  {
+    "title": "4.8.1\tChange Sales Orders (Remove Billing Block)\t39",
+    "steps": []
+  },
+  {
+    "title": "4.8.2\tBilling\t39",
+    "steps": []
+  }
+]

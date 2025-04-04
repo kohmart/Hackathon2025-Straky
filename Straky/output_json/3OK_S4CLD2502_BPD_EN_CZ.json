@@ -1,0 +1,78 @@
+[
+  {
+    "title": "4.1.1\tOption 1: Create Sales Order Directly\t11",
+    "steps": []
+  },
+  {
+    "title": "4.1.2\tOption 2: Create Sales Order including Quotation Processing\t13",
+    "steps": []
+  },
+  {
+    "title": "4.1.2.1\tCreate Sales Quotation\t13",
+    "steps": []
+  },
+  {
+    "title": "4.1.2.2\tCreate Sales Orders with Ref. to Quotation\t14",
+    "steps": []
+  },
+  {
+    "title": "4.2.1\tMaterial Requirements Planning\t16",
+    "steps": []
+  },
+  {
+    "title": "4.2.2\tMonitor Material Coverage\t17",
+    "steps": []
+  },
+  {
+    "title": "4.3.1\tCreate Process Order\t19",
+    "steps": []
+  },
+  {
+    "title": "4.3.2\tReview Process Order\t21",
+    "steps": []
+  },
+  {
+    "title": "4.3.3\tPreview Output Document for Process Order\t22",
+    "steps": []
+  },
+  {
+    "title": "4.3.4\tGoods Issue of Batch-Managed Components\t23",
+    "steps": []
+  },
+  {
+    "title": "4.3.4.1\tGoods Issue via Pick List\t23",
+    "steps": []
+  },
+  {
+    "title": "4.3.4.2\tManual Goods Issue (Instead of Picking List)\t25",
+    "steps": []
+  },
+  {
+    "title": "4.3.5\tMonitor Order Progress\t26",
+    "steps": []
+  },
+  {
+    "title": "4.3.6\tConfirm Process Order\t27",
+    "steps": []
+  },
+  {
+    "title": "4.3.7\tPost Goods Receipt for Process Order\t28",
+    "steps": []
+  },
+  {
+    "title": "4.4.1\tCreate Delivery with Order Reference\t30",
+    "steps": []
+  },
+  {
+    "title": "4.4.2\tExecute Picking\t31",
+    "steps": []
+  },
+  {
+    "title": "4.4.3\tPost Goods Issue\t32",
+    "steps": []
+  },
+  {
+    "title": "4.5.1\tCreate Billing Document\t33",
+    "steps": []
+  }
+]

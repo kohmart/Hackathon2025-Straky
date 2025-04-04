@@ -1,0 +1,138 @@
+[
+  {
+    "title": "4.1.1\tCreate Purchase Requisition\t25",
+    "steps": []
+  },
+  {
+    "title": "4.1.1.1\tCreate Purchase Requisition (Standard)\t25",
+    "steps": []
+  },
+  {
+    "title": "4.1.1.2\tCreate Purchase Requisition (Outline Agreement)\t27",
+    "steps": []
+  },
+  {
+    "title": "4.1.2\tCreate Purchase Contract\t28",
+    "steps": []
+  },
+  {
+    "title": "4.1.2.1\tCreate Purchase Contract with reference to Purchase Requisition\t29",
+    "steps": []
+  },
+  {
+    "title": "4.1.2.2\tCreate Purchase Contract with reference to Contract Template\t31",
+    "steps": []
+  },
+  {
+    "title": "4.1.2.3\tCreate Reference Purchase Contract (Optional)\t32",
+    "steps": []
+  },
+  {
+    "title": "4.1.3\tMass Changes to Purchase Contracts\t34",
+    "steps": []
+  },
+  {
+    "title": "4.1.4\tApprove Purchase Contract (Optional)\t35",
+    "steps": []
+  },
+  {
+    "title": "4.1.5\tMonitor Notification (Optional)\t36",
+    "steps": []
+  },
+  {
+    "title": "4.1.6\tPrint Purchase Contract\t37",
+    "steps": []
+  },
+  {
+    "title": "4.1.7\tGenerate Source Lists (Optional)\t38",
+    "steps": []
+  },
+  {
+    "title": "4.1.8\tProcess Purchase Requisition and Create Purchase Order\t39",
+    "steps": []
+  },
+  {
+    "title": "4.1.9\tSearch Purchase Documents with Requirement Tracking Number\t41",
+    "steps": []
+  },
+  {
+    "title": "4.1.10\tApprove Purchase Orders (Optional)\t42",
+    "steps": []
+  },
+  {
+    "title": "4.1.11\tMonitor Contract Items (Optional)\t43",
+    "steps": []
+  },
+  {
+    "title": "4.1.12\tPost Goods Receipt\t45",
+    "steps": []
+  },
+  {
+    "title": "4.1.13\tPartial Reverse Goods Receipt (Optional)\t46",
+    "steps": []
+  },
+  {
+    "title": "4.1.14\tCreate Supplier Invoice\t47",
+    "steps": []
+  },
+  {
+    "title": "4.2.1\tCreate Purchase Contract with Hierarchy Items\t49",
+    "steps": []
+  },
+  {
+    "title": "4.2.2\tApprove Purchase Contract (Optional)\t51",
+    "steps": []
+  },
+  {
+    "title": "4.2.3\tCreate Purchase Order with Reference to Purchase Contract\t52",
+    "steps": []
+  },
+  {
+    "title": "4.2.4\tApprove Purchase Orders (Optional)\t54",
+    "steps": []
+  },
+  {
+    "title": "4.2.5\tPost Goods Receipt\t55",
+    "steps": []
+  },
+  {
+    "title": "4.2.6\tCreate Supplier Invoice\t56",
+    "steps": []
+  },
+  {
+    "title": "4.3.1\tCreate Purchase Contract\t58",
+    "steps": []
+  },
+  {
+    "title": "4.3.2\tApprove Purchase Contract\t59",
+    "steps": []
+  },
+  {
+    "title": "4.3.3\tChange Purchase Contracts\t60",
+    "steps": []
+  },
+  {
+    "title": "4.3.4\tApprove purchase contract with new version\t61",
+    "steps": []
+  },
+  {
+    "title": "4.3.5\tDisplay Version History in Purchase Contracts\t62",
+    "steps": []
+  },
+  {
+    "title": "4.3.6\tCreate Purchase Order with Reference to Purchase Contract\t63",
+    "steps": []
+  },
+  {
+    "title": "4.3.7\tApprove Purchase Orders (Optional)\t64",
+    "steps": []
+  },
+  {
+    "title": "4.3.8\tPost Goods Receipt\t65",
+    "steps": []
+  },
+  {
+    "title": "4.3.9\tCreate Supplier Invoice\t66",
+    "steps": []
+  }
+]
